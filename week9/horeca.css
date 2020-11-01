@@ -1,0 +1,15 @@
+
+.grid-container {
+  display: grid;
+  background-color: darkred;
+  border-style: solid;
+  border color: darkred;
+}
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 0px 0;
+  font-size: 50px;
+  
+  }
+
